@@ -1,6 +1,9 @@
 package com.accp.domain;
 
 public class Address {
+	/**
+	 * 地址实体类
+	 */
     private Integer id;
 
     private String address;
